@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-I would like to express our appreciation to the following resources:
+I would like to express my appreciation to the following resources:
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [TravelAdvisorApi Documentation](https://www.tripadvisor.com/apidocumentation)
