@@ -2,7 +2,8 @@
 
 The Travel Guide Website is designed to assist users in finding restaurants, hotels, and tourist attractions for their travel destinations. Built using React, this project integrates two APIs—TravelAdvisorApi and OpenWeatherMap API—to provide users with valuable information about places to visit, dine, and stay, while also offering weather details.
 
-![Travel_Assistance_Website](https://github.com/Hean-Chhinling/Travel_assistance_website/assets/92643868/4effd533-f8d2-48c7-b1cb-e429306e81d2)
+
+![Travel_Assistance_Website](https://github.com/Hean-Chhinling/Travel_Assistance/assets/92643868/8557d6fa-30a3-4c1d-b5ad-1cb60a311531)
 
 
 ## Features
